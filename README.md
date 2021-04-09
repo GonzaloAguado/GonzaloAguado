@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GonzaloAguado
+- 👋 Hola internautas, Me llamo @GonzaloAguado soy un Programador Junior.
 - 👀 Estoy interesado en el desarrollo en movil y web.
 - 🌱 Estoy realizando las prácticas de Dam y aprendiendo Flutter.
 
